@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/gagan-madhan-16/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gagan-madhan-16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gagan-madhan-16/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gagan-madhan-16/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gagan-madhan-16/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/gagan-madhan-16/LeetCode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
