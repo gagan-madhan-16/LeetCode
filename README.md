@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gagan-madhan-16/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/gagan-madhan-16/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gagan-madhan-16/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1129-longest-string-chain](https://github.com/gagan-madhan-16/LeetCode/tree/master/1129-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gagan-madhan-16/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/gagan-madhan-16/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gagan-madhan-16/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1129-longest-string-chain](https://github.com/gagan-madhan-16/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/gagan-madhan-16/LeetCode/tree/master/1170-shortest-common-supersequence) |
 ## Greedy
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/gagan-madhan-16/LeetCode/tree/master/0115-distinct-subsequences) |
+| [1129-longest-string-chain](https://github.com/gagan-madhan-16/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/gagan-madhan-16/LeetCode/tree/master/1170-shortest-common-supersequence) |
 ## Binary Search
 |  |
@@ -40,4 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/gagan-madhan-16/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1129-longest-string-chain](https://github.com/gagan-madhan-16/LeetCode/tree/master/1129-longest-string-chain) |
+## Hash Table
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/gagan-madhan-16/LeetCode/tree/master/1129-longest-string-chain) |
+## Two Pointers
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/gagan-madhan-16/LeetCode/tree/master/1129-longest-string-chain) |
 <!---LeetCode Topics End-->
