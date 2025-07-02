@@ -1,6 +1,6 @@
 class Solution {
 private:
-    bool compare(string a , string b){
+    bool compare(string &a , string &b){
         if(b.size()!=a.size()+1)
         return false;
         int n=b.size();
