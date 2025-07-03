@@ -1,7 +1,7 @@
 class Solution {
 private:
-    int solve(vector<int> &dp , vector<int> &arr , int n){
-        vector<int> ct(n,0);
+    int solve(vector<int> &arr , int n){
+        vector<int> ct(n,0),dp(n,1);
         int maxi=1;
         for(int i=0;i<n;i++){
             for(int j=0;j<i;j++){
@@ -31,7 +31,6 @@ private:
 public:
     int findNumberOfLIS(vector<int>& nums) {
         int n=nums.size();
-        vector<int> dp(n,1);
-        return solve(dp,nums,n);
+        return solve(nums,n);
     }
 };
