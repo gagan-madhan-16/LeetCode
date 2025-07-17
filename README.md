@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/gagan-madhan-16/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gagan-madhan-16/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gagan-madhan-16/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1036-rotting-oranges](https://github.com/gagan-madhan-16/LeetCode/tree/master/1036-rotting-oranges) |
 | [1129-longest-string-chain](https://github.com/gagan-madhan-16/LeetCode/tree/master/1129-longest-string-chain) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/gagan-madhan-16/LeetCode/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/gagan-madhan-16/LeetCode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/gagan-madhan-16/LeetCode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/gagan-madhan-16/LeetCode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
