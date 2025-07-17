@@ -1,6 +1,6 @@
 class Solution {
-public:
-    int orangesRotting(vector<vector<int>>& grid) {
+private:
+    int lessOptimizeWay(vector<vector<int>>& grid){
         queue<pair<int,int>> q;
         
         int n=0;
@@ -81,5 +81,61 @@ public:
         }
 
         return ans;
+    }
+
+    int betterWay(vector<vector<int>>& grid){
+        queue<pair<pair<int,int>,int>> q;
+
+        for(int i=0;i<grid.size();i++){
+            for(int j=0;j<grid[i].size();j++){
+                if(grid[i][j]==2)
+                q.push({{i,j},0});
+            }
+        }
+
+        int ans=0;
+
+        while(!q.empty()){
+            int i,j,t;
+            i=q.front().first.first;
+            j=q.front().first.second;
+            t=q.front().second;
+            q.pop();
+
+            if(i>0 && grid[i-1][j]==1){
+                q.push({{i-1,j},t+1});
+                grid[i-1][j]=2;
+            }
+
+            if(j>0 && grid[i][j-1]==1){
+                q.push({{i,j-1},t+1});
+                grid[i][j-1]=2;
+            }
+
+            if(i<grid.size()-1 && grid[i+1][j]==1){
+                q.push({{i+1,j},t+1});
+                grid[i+1][j]=2;
+            }
+
+            if(j<grid[i].size()-1 && grid[i][j+1]==1){
+                q.push({{i,j+1},t+1});
+                grid[i][j+1]=2;
+            }
+
+            ans=max(ans,t);
+        }
+
+        for(int i=0;i<grid.size();i++){
+            for(int j=0;j<grid[i].size();j++){
+                if(grid[i][j]==1)
+                ans = -1;
+            }
+        }
+
+        return ans;
+    }
+public:
+    int orangesRotting(vector<vector<int>>& grid) {
+        return betterWay(grid);
     }
 };
