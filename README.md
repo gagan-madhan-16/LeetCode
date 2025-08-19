@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gagan-madhan-16/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1036-rotting-oranges](https://github.com/gagan-madhan-16/LeetCode/tree/master/1036-rotting-oranges) |
 | [1129-longest-string-chain](https://github.com/gagan-madhan-16/LeetCode/tree/master/1129-longest-string-chain) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gagan-madhan-16/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/gagan-madhan-16/LeetCode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/gagan-madhan-16/LeetCode/tree/master/1036-rotting-oranges) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gagan-madhan-16/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gagan-madhan-16/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
